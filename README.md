@@ -6,7 +6,7 @@
 
 [![version](https://img.shields.io/badge/version-1.0.0-gray.svg)](https://github.com/HasanEltantawy/taltawia/)
 
-لعبة التلتوية تحوي وضعين فردي ومتعدد وثلاثة أوضاع لللعب
+لعبة التلتوية لعبة مجانية تحوي وضعين فردي ومتعدد وثلاثة أوضاع لللعب
 
 XO | XO Strict | Connect4
 
@@ -30,6 +30,13 @@ XO | XO Strict | Connect4
 - تحديد الاسم والرمز الخاص باللاعب
 - انشاء تاريخ لللاعب وحفظ الشبكة الخاصة به
 - تحسين الشكل العام لللعبة
+
+<div align="Left">
+
+# Dev side
+
+- Flutter & dart
+- Statemanagment: Stateful Widgets `SetState`
 
 <div align="center">
 
